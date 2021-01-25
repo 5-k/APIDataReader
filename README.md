@@ -1,0 +1,2 @@
+# APIDataReader
+This is a sample application that allows to read data from an external API source and write the data to a file. This is a plug and play utility and can be used accross projects with no dependencies. In Application such as Tableau if the data source is an API, then this running this application would copy the data to a folder and tableau can be continuously integrated to read the files from the same folder.
